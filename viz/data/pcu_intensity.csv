@@ -1,0 +1,8 @@
+# Source: report Table 5 "Intensity Analytical Table" (traffic volume in PCU per hour; 15-minute manual counts x 4)
+day,period,Baikali,Boyra College Mor,Navy Colony
+Weekday,Off-peak,2904,1408,556
+Weekday,Morning peak,3468,2136,632
+Weekday,Evening peak,3828,1636,872
+Weekend,Off-peak,1920,1092,392
+Weekend,Morning peak,3704,1588,352
+Weekend,Evening peak,4060,1704,544
